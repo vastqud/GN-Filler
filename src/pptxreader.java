@@ -105,7 +105,7 @@ public class pptxreader {
     }
 
     public static boolean compareLineCounts(int currentLineCount) {
-        if (currentLineCount) > 90 {
+        if (currentLineCount > 90) {
             return false;
             // need to determine how many entries under each header somehow
         } else {
@@ -126,7 +126,7 @@ public class pptxreader {
             boolean isHeader = false;
             for (String guideLine : Files.readAllLines(Paths.get(worksheetFile))){
                 worksheetParseCount++;
-                System.out.println("Parsing notes... " + "Line " + string.valueOf(worksheetParseCount));
+                System.out.println("Parsing notes... " + "Line " + String.valueOf(worksheetParseCount));
                 if (transformString(guideLine).equals(line.trim()) && (!guideLine.equals(currentHeader)) && (!line.equals(currentHeader)) && (!transformString(guideLine).equals(currentHeader))) {
                     if ((guideLine != null) && (!transformString(guideLine).trim().isEmpty()) && (wasHeaderUsed(pastHeaders, guideLine) != true)) {
                         isHeader = true;
