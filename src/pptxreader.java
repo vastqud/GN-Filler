@@ -4,13 +4,31 @@ import java.io.*;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class pptxreader {
 
     public static void main(String[] args) {
         pptxreader programm = new pptxreader();
         try {
-            programm.start();
+            String notesFile = "";
+            String worksheetFile = "";
+            String outputFile = "";
+
+            Scanner scannerObj = new Scanner(System.in);
+            System.out.println("Enter file path of PowerPoint file (must be saved as .txt)");
+
+            notesFile = scannerObj.nextLine();
+
+            System.out.println("Enter file path of worksheet file (also saved as .txt)");
+
+            worksheetFile = scannerObj.nextLine();
+
+            System.out.println("Enter file path of output file (must be a blank .txt file)");
+
+            outputFile = scannerObj.nextLine();
+
+            programm.start(notesFile, worksheetFile, outputFile);
         }
         catch(IOException e) {
             e.printStackTrace();
@@ -29,9 +47,9 @@ public class pptxreader {
         return true;
     }
 
-    public static void write(String str) {
+    public static void write(String str, String file) {
         try {
-            FileWriter myWriter = new FileWriter("D:\\Projects\\filledout.txt", true);
+            FileWriter myWriter = new FileWriter(file, true);
             myWriter.write(str + System.lineSeparator());
             myWriter.close();
         } catch (IOException e) {
@@ -74,10 +92,9 @@ public class pptxreader {
     }
 
     public static String getFormattedLine(int lineCount, String line, String actualLine) {
-        line = line.trim();
-        int nonWhitespace = getIndexOfNonWhitespaceAfterWhitespace(line);
-        nonWhitespace++;
-        int numWhitespace = line.length() - nonWhitespace;
+        int numWhitespace = getIndexOfNonWhitespaceAfterWhitespace(line);
+        numWhitespace++;
+        numWhitespace = numWhitespace + 4;
         String string = "";
 
         for (int i = 0; i < numWhitespace; i++) {
@@ -87,38 +104,39 @@ public class pptxreader {
         return string + String.valueOf(lineCount) + ". " + actualLine;
     }
 
-    public void start() throws java.io.IOException {
+    public void start(String notesFile, String worksheetFile, String outputFile) throws java.io.IOException {
         String currentHeader = "default";
         int lineCount = 0;
+        int noteParseCount = 0;
+        int worksheetParseCount = 0;
         ArrayList<String> pastHeaders = new ArrayList<String>();
         System.out.println("Beginning parsing...");
-        for (String line : Files.readAllLines(Paths.get("D:\\Projects\\gn.txt"))){
+        for (String line : Files.readAllLines(Paths.get(notesFile))){
+            noteParseCount++;
+            worksheetParseCount = 0;
             boolean isHeader = false;
-            String formatting = "";
-            for (String guideLine : Files.readAllLines(Paths.get("D:\\Projects\\worksheet.txt"))){
-                System.out.println("Parsing notes...");
+            for (String guideLine : Files.readAllLines(Paths.get(worksheetFile))){
+                worksheetParseCount++;
+                System.out.println("Parsing notes... " + "Line " + string.valueOf(worksheetParseCount));
                 if (transformString(guideLine).equals(line.trim()) && (!guideLine.equals(currentHeader)) && (!line.equals(currentHeader)) && (!transformString(guideLine).equals(currentHeader))) {
                     if ((guideLine != null) && (!transformString(guideLine).trim().isEmpty()) && (wasHeaderUsed(pastHeaders, guideLine) != true)) {
                         isHeader = true;
                         currentHeader = guideLine;
                         pastHeaders.add(guideLine);
                         pastHeaders.add(transformString(guideLine));
-                        //lineCount = 0;
                     } 
                 }
             }
             
-            System.out.println("Writing to file...");
+            System.out.println("Writing to file... " + "Line " + String.valueOf(noteParseCount));
             if (isHeader) {
-                //System.out.println(currentHeader);
-                write(currentHeader);
+                write(currentHeader, outputFile);
                 lineCount = 0;
             } else {
                 if ((line != null) && (!line.trim().isEmpty())) {
                     if ((isNumeric(line.trim()) != true) && (wasHeaderUsed(pastHeaders, line.trim()) != true)) {
                         lineCount++;
-                        //System.out.println(getFormattedLine(lineCount, currentHeader, line));
-                        write(getFormattedLine(lineCount, currentHeader, line));
+                        write(getFormattedLine(lineCount, currentHeader, line), outputFile);
                     }
                 }
             }
