@@ -104,6 +104,15 @@ public class pptxreader {
         return string + String.valueOf(lineCount) + ". " + actualLine;
     }
 
+    public static boolean compareLineCounts(int currentLineCount) {
+        if (currentLineCount) > 90 {
+            return false;
+            // need to determine how many entries under each header somehow
+        } else {
+            return true;
+        }
+    }
+
     public void start(String notesFile, String worksheetFile, String outputFile) throws java.io.IOException {
         String currentHeader = "default";
         int lineCount = 0;
@@ -136,7 +145,10 @@ public class pptxreader {
                 if ((line != null) && (!line.trim().isEmpty())) {
                     if ((isNumeric(line.trim()) != true) && (wasHeaderUsed(pastHeaders, line.trim()) != true)) {
                         lineCount++;
-                        write(getFormattedLine(lineCount, currentHeader, line), outputFile);
+                        
+                        if (compareLineCounts(lineCount) == true){
+                            write(getFormattedLine(lineCount, currentHeader, line), outputFile);
+                        }
                     }
                 }
             }
