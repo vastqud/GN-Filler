@@ -1,0 +1,616 @@
+Plant Systems
+
+Functions of Plant Parts
+
+Roots
+Are typically underground
+Are responsible for anchoring the plant 
+Are responsible for absorption of water and nutrients
+
+Roots
+Provide physical support for the stem
+Serve as food storage organs
+Are used as a means of propagation in some plants
+Propagation:
+process of producing new plants by seeds, cuttings or other techniques
+
+Stems
+Are also known as the vascular system of the plant
+Support leaves, flowers and fruit
+Are used for transportation of water and nutrients
+Can grow underground, along the ground and aboveground
+
+Leaves
+Absorb light energy to produce plant sugar
+Provide surface area to gather more light for photosynthesis 
+allows maximum light to be captured with minimum water loss
+
+Flowers
+Are intended for sexual reproduction in the plant 
+produces seed to continue species
+
+Flowers
+Contain fragrance and color which are important factors of reproduction
+attracts pollinators such as insects and animals which carry pollen to other flowers in order to continue the species
+
+Fruit
+Are fertilized or mature ovules known as seeds
+Attracts insects and animals which feed on fruits, spreading the seed over a vast area of land mainly by defecation following digestion
+Provides food for:
+insects
+humans
+animals
+
+Seeds
+Are mature ovules
+Germinate if certain environmental conditions are met such as:
+exposure to oxygen
+favorable temperatures
+correct light exposure (for some seeds)
+Germination:
+beginning or resumption of growth of a seed or spore
+
+Plant Cellular Reactions
+
+Drought Stress
+Alters metabolism 
+accumulates compatible solutes
+Causes osmotic potential to be reduced
+Results in acid storage in chloroplasts
+
+Salt Stress
+Causes a drop in osmotic potential in the cells
+Na+ ions pumped into the vacuole
+reduces the build-up of Na+ ions in the cytoplasm 
+
+Salt Stress
+Can affect the function of certain enzymes if found in high concentrations
+Has symptoms which are very similar to those seen in drought stress
+Reduces cellular metabolism
+
+Cold Stress
+Symptoms Include:
+chlorophyll reduction
+reduction in photosynthesis
+metabolism reduction
+
+Heat Stress
+Affects enzyme function through denaturation
+Affects the fluidity of the biological membranes
+Causes a drop in the synthesis of proteins
+Denaturation:
+alteration of a protein shape through some form of external stress
+
+Absorption
+Occurs when water is drawn into the root and minerals dissolve
+Occurs in the endodermis
+allows certain molecules to be absorbed and pumps out other molecules
+
+Absorption
+Is increased when surface area increases
+root hairs: extensions of root cells
+increase surface area
+mycorrhizae: fungal associations with roots
+greatly increase surface area
+
+Transport Systems
+Occurs on three levels
+
+Individual Cells
+Allows for the uptake and release of water and solutes
+Is involved in the absorption of water and minerals by root cells
+
+Cell-to-Cell
+Is involved in short-distance transport
+Carries sucrose from photosynthetic cells into sieve tube cells of the phloem
+
+Transport of Sap Within the Xylem and Phloem
+Is involved in long-distance transport
+Carries photosynthate from leaf to root
+Photosynthate:
+chemical compound which is a product of photosynthesis
+
+Plant Biology
+
+Photosynthesis
+Is a process in plants which converts light energy to chemical energy
+requires light energy, CO2 and H2O
+occurs in the chloroplasts
+
+Photosynthesis
+Carbon Dioxide + Water 🡪 Glucose + Oxygen 
+6CO2+6H2O 🡪 C6H12O6+6O2
+Allows plants to make their own food and convert it to energy
+
+The Photosynthesis Process includes the following steps:
+CO2 enters leaf through stomata
+CO2 combines with energy and water in chloroplasts to make glucose
+sugar moves through the leaves, then to the roots, stems and fruits of the plant
+sugar is then:
+used immediately for energy
+stored as starch
+built into plant tissue
+
+
+Respiration
+Is the breakdown of glucose molecules to release energy
+Occurs after photosynthesis
+the organism transforms the chemical energy into a form which is usable by the organism
+included in photosynthesis cycle
+
+Respiration
+Glucose + Oxygen 🡪 Carbon Dioxide + Water
+C6H12O6+6O2 🡪 6CO2+6H2O
+
+Photosynthesis Cycle
+Included on the slide is an illustration depicting process of Photosynthesis cycle. The cycle begins with the Sun’s energy and continues as follows:
+Solar energy is absorbed into the leaf of the plant. 
+Carbon Dioxide is absorbed into the leaf and Oxygen is Expelled.
+Glucose is moved into the stem of the plant.
+The root system absorbs water and Mineral Salts for nutrition of the plant. 
+
+The Nitrogen Cycle
+Includes the following steps:
+nitrogen contained in the atmosphere or soil goes through many chemical and biological changes, is combined into living and non-living material and returns back to the soil or air
+nitrate is a very important form of nitrogen for plants
+
+The Nitrogen Cycle
+Included on the slide is an illustration depicting the Nitrogen Cycle. The cycle steps are as follows:
+Nitrogen in the atmosphere is “fixed” by bacteria in the soil to be usable by plants. 
+Nitrogen in animal proteins, decaying matter, and waste is absorbed by the soil and then broken down by the bacteria to be usable nutrients for the root system of plants to absorb. 
+Excess Nitrogen is expelled by plants and animals back into the atmosphere. 
+
+Nitrate
+Is the form of Nitrogen plants need to grow, develop and produce seeds
+Can affect surface and groundwater quality
+
+Nitrate
+Exists in soils and is released from plant residues and organic matter during decomposition
+nitrate is not present in sufficient quantities for crops, therefore fertilizers or manure need to be applied to achieve an adequate amount of nitrate for crops
+
+Plant Tropisms
+Include:
+phototropism
+gravitropism
+thigmotropism
+hydrotropism
+chemotropism
+
+Phototropism
+Is the response of the plant to light
+Is caused by auxins in the stem which cause the plant to move towards light
+auxins move to the dark side of the plant
+inhibits cell elongation
+
+Phototropism
+Included on the slide is an illustration of Phototropism or the response of a plant 
+to light. The cycle begins with the Sun’s energy and continues as follows:
+In the plant’s stem auxins are released on the dark side of the shoot
+Auxins cause elongation of the cells within the stem. 
+The plant stem then leans toward the sunlight in order to maximize the plant’s surface area that can absorb light. 
+
+
+Phototropism
+Allows light distribution to be more even across the plant and increases light absorption
+Includes
+positive phototropism: moving towards light
+seen in stems
+negative phototropism: moving away from light
+seen in roots
+
+Phototropism
+Included on the slide is an illustration of Phototropism or the response of a plant 
+to light. The positive and negative reactions of Phototropism are as follows:
+Positive Phototropism is shown by the anatomy of the plant (stem, leaves, and flowers) growing towards the sunlight. 
+Negative Phototropism is shown by the root system of the plant growing downward and away from the light source. 
+
+Gravitropism
+Is the response of the plant to grow towards or away from the force of gravity
+Allows certain parts of the plant to grow in the direction which most benefits the plant
+
+Gravitropism
+Includes:
+positive gravitropic response: growth towards the earth to provide anchorage and find water and mineral supplies
+found in roots
+44
+
+Gravitropism
+Includes
+negative gravitropic response: growth away from earth to find light
+found in stems
+leaves grow out and away from the stem instead of straight down
+45
+
+Thigmotropism
+Is the response of the plant to touch
+Allows plants to find support to aid in growth and allows roots to avoid obstacles to get to water and nutrients
+
+Thigmotropism
+Includes:
+positive thigmotropic response
+plants and plant parts can sense when they are touching an object in order to use it in means of support	
+attaches by the stem or tendrils
+
+Thigmotropism
+Includes:
+negative thigmotropic response
+roots navigate away from rocks and other obstacles in order to find the water and nutrients needed
+
+
+Hydrotropism
+Is the response of the plant to moisture
+Is a positive response
+roots grow toward moisture in the soil
+Allows roots to move toward moisture to absorb needed water
+
+Hydrotropism
+Included on the slide is an illustration of Hydrotropism or the response of a plant 
+to moisture. Hydrotropism is as follows:
+The root system senses moisture in the soil and grows towards the source. 
+
+Chemotropism
+Is the response of the plant to a particular chemical
+Is not apparent in stems
+Allows roots to more easily access nutrients needed by the plant
+
+Chemotropism
+Is a positive response
+roots tend to grow towards mineral ions needed by the plant
+when a higher concentration of a mineral ion which is valuable to the plant is detected by the root, it extends lateral roots to absorb as much of the mineral as possible
+
+Chemotropism
+Included on the slide is an illustration of Chemotropism or the response of a plant 
+to a particular chemical. Chemotropism is as follows:
+The root system senses mineral ions in the soil and grows towards the source. 
+
+Structure & Function of Organic Molecules
+
+Proteins
+Are made up of amino acids
+Serve as structural elements in the cytoskeleton
+
+Functions
+transportation of solutes across cell membranes
+serving as hormone receptors
+serving as regulatory  pigments
+acting as enzymes
+
+Carbohydrates
+Are composed of carbon, hydrogen and oxygen
+
+Functions of Carbs
+energy metabolism in cells
+composition of the cell wall (cellulose)
+storing and yielding energy
+
+Lipids
+Provide structure in:
+cellular membranes
+chloroplasts
+
+Functions of Lipids
+storing and yielding energy
+formation of lipid bodies which act as a reservoir of lipids for membrane synthesis
+contribution in the fluidity of membranes
+
+Nucleic Acids
+DNA (deoxyribonucleic acid): makes up genes which direct the synthesis of proteins and the assembly of other macromolecules into functional cells
+RNA (ribonucleic acid): carries the information from the nucleus into cytoplasm
+
+Plant Growth
+
+Requirements for Plant Growth
+adequate water
+adequate space
+for root and canopy growth
+sufficient light
+produces food for the plant which allows it to grow
+
+Requirements for Plant Growth
+atmospheric factors
+plants must have sufficient amounts of oxygen and carbon dioxide 
+soil must contain adequate amounts of oxygen
+
+Requirements for Plant Growth
+Includes:
+soil or media
+nutrients
+used in important biological functions
+required for growth  and maintenance
+
+
+Requirements for Plant Growth
+Include:
+temperature
+plants must be in an environment with appropriate temperatures for the specific plant type
+temperatures which are too high or too low lead to abnormal development and reduced production
+
+Nutrients
+
+Non-mineral
+Are found in air and water
+Are provided by nature
+Are used by plants but the amount used is difficult to control
+Include:
+hydrogen
+oxygen
+carbon 
+
+Macronutrients
+Are found in soil
+Can be replenished by use of fertilizers 
+Are needed in large amounts by the plant
+
+Macronutrients
+Include
+nitrogen
+phosphorus
+potassium
+calcium
+magnesium
+sulfur
+
+Primary Macronutrients
+Are used in large amounts by plants for growth and survival, therefore these nutrients are usually depleted from the soil first
+
+Nitrogen
+Is necessary for the synthesis and transfer of energy
+Enables rapid growth in plants
+Increases seed and fruit production
+Improves quality of leaf and forage crops
+
+Nitrogen Deficiencies
+Cause yellowing of older leaves (bottom of plant)
+Result in chlorosis
+Cause reduced yield potential
+
+Phosphorus
+Is involved in the formation of oils, sugars and starches
+Encourages blooming and root growth
+Helps transform solar energy to chemical energy
+
+Phosphorus Deficiencies
+Cause leaf tips to appear burned
+Cause older leaves to appear dark-green or reddish-purple
+Cause overall stunting
+Results in reduced yield potential
+
+Potassium (K)
+Is absorbed by plants in larger amounts than any other mineral element excluding nitrogen 
+Helps build protein, fruit quality and aids in reduction of diseases
+
+Potassium Deficiencies
+Cause older leaves to look scorched and begin to wilt
+Cause interveinal chlorosis which starts at the base and scorches inward from leaf margins
+
+Secondary
+Are available in sufficient amounts in soil, therefore fertilization is not always needed
+
+Calcium
+Is an essential part of plant cell wall structure
+Allows for normal transport and retention of other elements
+Provides strength to plant
+
+Calcium Deficiencies
+Cause younger leaves to become distorted or irregularly shaped
+Lead to blossom-end rot
+
+Magnesium
+Is essential for photosynthesis
+Helps activate many plant enzymes needed for growth
+
+Magnesium Deficiencies
+Make the edges of older leaves turn yellow
+Create a green arrowhead shape which develops in center of leaf
+
+Sulfur
+Is essential for the production of protein
+Promotes activity and development of enzymes and vitamins
+Aids in chlorophyll formation
+Encourages root growth and seed production
+Helps with resistance to cold
+
+Sulfur Deficiencies
+Cause yellowing of younger leaves
+
+Micronutrients
+
+Boron
+Aids in the use and regulation of nutrients
+Helps in the production of sugar and carbohydrates
+Is essential for seed and fruit development
+
+Boron Deficiencies
+Cause leaves to have scorched appearance
+Cause dark rings to appear on leaf petioles
+May cause some leaves to be deformed
+
+Copper
+Is imperative for reproductive growth
+Helps in root metabolism 
+Helps in utilization of proteins
+
+Copper Deficiencies
+Cause leaves to turn dark green
+Stunt plant growth
+
+Iron
+Used in the formation of chlorophyll
+
+Iron Deficiencies
+Cause yellowing between veins of young leaves
+
+Chlorine
+Helps plant metabolism
+Is present in higher concentrations after:
+rainfall
+fertilizer application
+irrigation
+
+Manganese
+Works with enzyme systems to breakdown:
+carbohydrates
+nitrogen metabolism
+
+Manganese Deficiencies
+Cause yellowing between veins of young leaves 
+not as distinct as iron
+Cause “frizzle top” in plants
+palm fronds are stunted and deformed
+Result in size reduction in plant parts
+Create dead spots or patches
+
+Molybdenum
+Aids in the use of nitrogen
+Is toxic in high quantities
+Availability increases with soil pH
+Causes a disease called “molybdenosis”
+
+Molybdenum Deficiencies
+Cause yellowing of older leaves
+Leave the rest of the plant light green
+
+Zinc
+Is essential for the transformation of carbohydrates
+Regulates consumption of sugars
+Regulates plant growth
+
+Zinc Deficiencies
+Cause terminal leaves to be rosetted
+Cause yellowing between veins of new leaves
+
+Soil + Water
+
+Soil
+Provides plants with nutrients, water, minerals and a medium to grow on
+Requirements include:
+organisms to help cycle nutrients
+nutrients and minerals
+water
+
+Soil pH
+Is the measurement of the alkalinity or acidity of soil 
+Is measured on a scale of 0-14
+acidic: less than seven
+basic or alkaline: greater than seven
+neutral: seven
+
+Soil pH
+Is very important in crop production
+affects nutrient availability and the activity of microorganisms in the soil
+
+
+Fertilizer
+Replaces crop land nutrients which have been consumed by previous growth
+Should never be applied to frozen ground
+Use should be limited on slopes and areas with high runoff
+Is applied more efficiently and more uniformly by irrigation systems
+
+Fertilizer Bags
+Require a soil sample be taken to get accurate results on which fertilizer to apply
+Contain primary nutrients as the main ingredients seen in the form of N-P-K
+Vary in percentage of nutrients, depending on what amounts are needed for certain plants
+
+Fertilizer Bags
+Are 50 pounds and contain labels with numbers such as 10-10-10 which means the bag contains:
+10 percent Nitrogen, 10 percent Phosphorus, 10 percent Potassium or  5 lbs. Nitrogen, 5 lbs. Phosphorus, 5 lbs. Potassium
+
+Fertilizer Bags
+Included on the slide is an illustration depicting a fertilizer bag and the label which tells us the percentage of nutrients contained. . The nutrients are the following:
+First number: Available Nitrogen (N)
+Second number: Available Potash (K2O)
+Third number: Available Phosphate (P2O5)
+
+
+Water
+Is required in large quantities by crops
+Is absorbed from the soil 
+Is utilized most for transpiration
+Is influenced by soil moisture
+
+Crops
+Require proper watering
+encourages photosynthesis and optimum plant growth
+allows adequate oxygen to be absorbed by the plant
+helps prevent nutrient deficiencies 
+
+Crops
+Are influenced by water pH and its interaction on plant growth
+controls nutrient availability
+high pH
+may cause iron, manganese and other minor nutrients to become unavailable
+
+Crops
+Are influenced by water pH and its interaction on plant growth
+low pH
+leads to excess iron and manganese availability
+leads to toxicity or calcium and magnesium deficiencies
+
+
+Plant Adaptations to Water Shortages
+Are only effective in short term water shortages
+Will not allow the plant to survive in the long run without water
+Greatly reduce plant production and health
+
+Plant Adaptations to Water Shortages
+an increase in root growth and a reduction in aerial growth
+decrease in leaf production
+loss of leaves
+reduces water loss through leaves
+
+Plant Adaptations to Water Shortages
+closure of stomata
+conserves water in the leaves
+plant is left unable to photosynthesize
+altering of metabolism
+accumulates compatible solutes which allow for osmotic adjustment in the cell which helps maintain water flow in cells
+
+Impact of Human Activity on Ecosystems
+
+Impact of Human Activity on Ecosystems
+
+Hydroponics
+Is the growing of plants in liquid nutrient solution with or without use of artificial media
+Presents no physiological difference between plants grown hydroponically and those grown in soil
+Allows plants to be grown areas of poor soil conditions such as deserts
+
+Hydroponics
+Is a cost effective and advanced technique used frequently for research and education purposes because space is usually limited and it is easier to evaluate subsurface growth such as roots 
+
+Advantages of Hydroponics
+
+usage in areas where in-ground production is not possible
+lower water and nutrient costs
+faster growth of plants
+higher crop yields
+no weeding or cultivation required
+
+Disadvantages of Hydroponics
+Include:
+higher costs than soil culture
+skill and knowledge are needed to operate properly
+some diseases can spread quickly through the system
+
+Sustainable Agriculture
+Is also known as conventional farming, modern agriculture and industrial farming
+Is the practice of increasing agricultural output while enhancing environmental quality and natural resources
+
+Sustainable Agriculture
+Can be accomplished by:
+minimizing use of external inputs
+optimizing use of internal resources
+a combination of both methods
+
+Sustainable Agriculture
+Allows by-products or wastes from one product to become inputs to another
+system of reuse allows for more efficiency of inputs
+Teaches producers to adapt to changes in the environment and to become self-reliant
+
+Sustainable Agriculture
+Is used to reduce the environmental impact of production
+allows for preservation of resources for future generations
+
+Sustainable Agriculture
+Is believed to help solve the issue of production agriculture for the world’s rapid growing population 
+Fun Fact:
+World Bank estimates state 70 to 90 percent of increase in food production is due to conventional farming, not increased acreage.
