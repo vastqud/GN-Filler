@@ -9,8 +9,8 @@ In the notes file, delete any extra text. Things like the introduction slides an
 
 The biggest thing you have to do before running the program is to make sure the worksheet and the notes file match. If headers are spelled differently at all, edit the notes file to make them match. For example, if a section in the worksheet is titled “Flowers + Stems”, and in the notes file that section is titled “Flowers & Stems”, replace every instance of the header “Flowers & Stems” with “Flowers + Stems” in the notes file. Even if it seems like a small difference, the program cannot detect spelling mismatches. Capitalization does not matter.
 
-Before running the program, you must have Java installed on your computer. You can download Java here:
-https://www.java.com/en/download/
+Before running the program, you must have a Java JDK installed on your computer. You can download Java here:
+https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
 
 # Running the program
 Navigate to the folder that you installed the script to. Inside that folder, shift-right-click to bring up the context menu and select ‘open Powershell window here’. Alternatively, you can open the command terminal and type ‘cd path\to\file’.
