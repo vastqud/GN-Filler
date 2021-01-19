@@ -69,10 +69,38 @@ public class pptxreader {
         return str;
     }
 
+    public static boolean isWordBlacklisted(String word) {
+        String[] blacklist = {
+            "Defition:",
+            "Examples:",
+            "Fun Fact:",
+            "Includes:",
+            "Example:",
+            "Include:",
+            "Characteristics:",
+            "Effects on plants:",
+            "Prevention Methods:",
+            "Treatment Methods:",
+            "Life Cycle:",
+            "Economic Impact:"
+        };
+
+        for (String thisWord : blacklist) {
+            thisWord = thisWord.toLowerCase();
+            if (thisWord.equals(word)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
     public static boolean wasHeaderUsed(ArrayList array, String entry) {
         for (int i = 0; i < array.size(); i++) {
             if (array.get(i).equals(entry)) {
-                return true;
+                if (!isWordBlacklisted(entry)) {
+                    return true;
+                }
             }
         }
         return false;
@@ -121,16 +149,20 @@ public class pptxreader {
         ArrayList<String> pastHeaders = new ArrayList<String>();
         System.out.println("Beginning parsing...");
         for (String line : Files.readAllLines(Paths.get(notesFile))){
+            String origLine = line;
+            line = line.toLowerCase();
             noteParseCount++;
             worksheetParseCount = 0;
             boolean isHeader = false;
             for (String guideLine : Files.readAllLines(Paths.get(worksheetFile))){
                 worksheetParseCount++;
+                String origGuide = guideLine;
+                guideLine = guideLine.toLowerCase();
                 System.out.println("Parsing notes... " + "Line " + String.valueOf(worksheetParseCount));
-                if (transformString(guideLine).equals(line.trim()) && (!guideLine.equals(currentHeader)) && (!line.equals(currentHeader)) && (!transformString(guideLine).equals(currentHeader))) {
+                if (transformString(guideLine).equals(line.trim()) && (!guideLine.equals(currentHeader.toLowerCase())) && (!line.equals(currentHeader.toLowerCase())) && (!transformString(guideLine).equals(currentHeader.toLowerCase()))) {
                     if ((guideLine != null) && (!transformString(guideLine).trim().isEmpty()) && (wasHeaderUsed(pastHeaders, guideLine) != true)) {
                         isHeader = true;
-                        currentHeader = guideLine;
+                        currentHeader = origGuide;
                         pastHeaders.add(guideLine);
                         pastHeaders.add(transformString(guideLine));
                     } 
