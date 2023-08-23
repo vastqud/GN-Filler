@@ -1,5 +1,7 @@
 # Notes about the program
 
+This is a program that I wrote that is intended to automatically fill out Guided Notes homework for a class I took in high school.
+
 It’s not intended to automatically do all of the work for you immediately; it’s just to significantly reduce the time it takes to fill out the notes and eliminate the tedium of copying from the slides. You will still have to do some work before you run the program and after, but it’s nothing compared to just doing the notes on your own. The program handles the bulk of the work for you.
 
 # Before running the program
